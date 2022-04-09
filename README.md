@@ -1,2 +1,2 @@
-# Dante-s-star
+# Dante's Star
 Journeying through Hell to Generate and Solve Mazes.
